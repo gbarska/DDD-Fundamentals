@@ -1,0 +1,12 @@
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/netcoreapp2.2/AppointmentScheduling.Core.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/netcoreapp2.2/AppointmentScheduling.Core.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/netcoreapp2.2/AppointmentScheduling.Core.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/netcoreapp2.2/AppointmentScheduling.Core.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/netcoreapp2.2/AppointmentScheduling.Core.deps.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/netcoreapp2.2/AppointmentScheduling.Core.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/netcoreapp2.2/AppointmentScheduling.Core.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/netcoreapp2.2/AppointmentScheduling.Core.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/netcoreapp2.2/AppointmentScheduling.Core.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Core/obj/Debug/netcoreapp2.2/AppointmentScheduling.Core.pdb

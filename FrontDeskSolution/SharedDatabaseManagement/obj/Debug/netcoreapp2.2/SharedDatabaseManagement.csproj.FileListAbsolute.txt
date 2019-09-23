@@ -1,0 +1,16 @@
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/obj/Debug/netcoreapp2.2/SharedDatabaseManagement.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/obj/Debug/netcoreapp2.2/SharedDatabaseManagement.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/obj/Debug/netcoreapp2.2/SharedDatabaseManagement.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/obj/Debug/netcoreapp2.2/SharedDatabaseManagement.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/SharedDatabaseManagement.deps.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/SharedDatabaseManagement.runtimeconfig.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/SharedDatabaseManagement.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/SharedDatabaseManagement.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/SharedDatabaseManagement.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/ClientPatientManagement.Core.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/bin/Debug/netcoreapp2.2/ClientPatientManagement.Core.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/obj/Debug/netcoreapp2.2/SharedDatabaseManagement.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/obj/Debug/netcoreapp2.2/SharedDatabaseManagement.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/SharedDatabaseManagement/obj/Debug/netcoreapp2.2/SharedDatabaseManagement.pdb

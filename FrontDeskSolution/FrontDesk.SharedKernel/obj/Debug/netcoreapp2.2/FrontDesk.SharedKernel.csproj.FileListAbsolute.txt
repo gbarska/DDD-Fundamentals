@@ -1,0 +1,9 @@
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/netcoreapp2.2/FrontDesk.SharedKernel.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/netcoreapp2.2/FrontDesk.SharedKernel.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/netcoreapp2.2/FrontDesk.SharedKernel.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/netcoreapp2.2/FrontDesk.SharedKernel.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.deps.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/netcoreapp2.2/FrontDesk.SharedKernel.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/FrontDesk.SharedKernel/obj/Debug/netcoreapp2.2/FrontDesk.SharedKernel.pdb

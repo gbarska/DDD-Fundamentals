@@ -1,0 +1,16 @@
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/obj/Debug/netcoreapp2.2/AppointmentScheduling.Data.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/obj/Debug/netcoreapp2.2/AppointmentScheduling.Data.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/obj/Debug/netcoreapp2.2/AppointmentScheduling.Data.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/obj/Debug/netcoreapp2.2/AppointmentScheduling.Data.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/AppointmentScheduling.Data.deps.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/AppointmentScheduling.Data.runtimeconfig.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/AppointmentScheduling.Data.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/AppointmentScheduling.Data.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/AppointmentScheduling.Data.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/AppointmentScheduling.Core.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/FrontDesk.SharedKernel.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/bin/Debug/netcoreapp2.2/AppointmentScheduling.Core.pdb
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/obj/Debug/netcoreapp2.2/AppointmentScheduling.Data.csproj.CopyComplete
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/obj/Debug/netcoreapp2.2/AppointmentScheduling.Data.dll
+/home/gbarska/Github/ASPNET/DDD-Fundamentals/DDD-Fundamentals/FrontDeskSolution/AppointmentScheduling.Data/obj/Debug/netcoreapp2.2/AppointmentScheduling.Data.pdb
